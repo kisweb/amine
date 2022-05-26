@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+#dossier studio
+/kisarr
+
 # production
 /build
 
